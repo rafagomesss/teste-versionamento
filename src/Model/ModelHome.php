@@ -1,10 +1,11 @@
 <?php
-namespace TesteVersionamento\Controller;
+namespace TesteVersionamento\Model;
 
-class HomeController
+class ModelHome
 {
     public function __construct()
     {
         echo 'Construiu a classe: ' . __CLASS__;
     }
 }
+

@@ -1,7 +1,7 @@
 <?php
-namespace TesteVersionamento\Controller;
+namespace TesteVersionamento\View;
 
-class HomeController
+class View
 {
     public function __construct()
     {
